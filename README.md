@@ -1,4 +1,4 @@
-# client
+# blog-app
 
 ## Project setup
 ```
